@@ -1,0 +1,37 @@
+.header {
+  height: 110px;
+  background-color: rgb(203, 203, 203);
+  color: #ffff;
+  padding: 1.5rem;
+  font-weight: bold;
+  margin-top: 0rem;
+}
+
+.titulo {
+  margin-top: 0rem;
+  background-color: black;
+  color: white;
+  height: 6rem;
+  padding: 2rem;
+  text-align: center;
+  align-items: center;
+}
+
+.texto-prueba {
+  text-align: center;
+  font-weight: bold;
+  color: darkgreen;
+}
+
+.navbar-nav {
+  text-align: center;
+}
+
+#cart_menu_num {
+  color: red;
+  font-size: 1rem;
+}
+
+.carrito-1 {
+  left: auto;
+}
